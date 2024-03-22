@@ -17,5 +17,10 @@ Instalação do flask
 Clonar o repositorio: https://github.com/jakelima18/jenkins-kubernetes
 Executar o comando: `docker-compose up -d`
 Acessar a pagina: http://localhost:4000/
-- [ ] Trabalhando com Docker Parte 2
+- [x] Trabalhando com Docker Parte 2
+Configurar o volume no docker-compose
+```
+volumes:
+  - /mnt/c/python/jenkins-kurbenetes:/var/www/forum
+```
 - [ ] Configurações do WSL
