@@ -6,14 +6,13 @@
 # School of Net - Trabalhando com Windows Subsystem Linux(WSL)
 
 
-- [x]Introdução
-- [ ]Integrando com VS Code
-- Instalar o Ubuntu - Windows
-- No Ubuntu instalar `sudo apt-get install wget ca-certificates`
-- No VSCode instlar a extensão `WSL`
-- [ ]Montando um ambiente de desenvolvimento Python
-- [ ]Manipulando arquivos
-- [ ]Instalando Docker no WSL
-- [ ]Trabalhando com Docker Parte 1
-- [ ]Trabalhando com Docker Parte 2
-- [ ]Configurações do WSL
+- [x] Introdução
+- [x] Integrando com VS Code
+- [x] Montando um ambiente de desenvolvimento Python
+Instalação do python 3 e pip
+Instalação do flask
+- [ ] Manipulando arquivos
+- [ ] Instalando Docker no WSL
+- [ ] Trabalhando com Docker Parte 1
+- [ ] Trabalhando com Docker Parte 2
+- [ ] Configurações do WSL
