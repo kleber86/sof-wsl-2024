@@ -11,8 +11,11 @@
 - [x] Montando um ambiente de desenvolvimento Python
 Instalação do python 3 e pip
 Instalação do flask
-- [ ] Manipulando arquivos
-- [ ] Instalando Docker no WSL
-- [ ] Trabalhando com Docker Parte 1
+- [x] Manipulando arquivos
+- [x] Instalando Docker no WSL
+- [x] Trabalhando com Docker Parte 1
+Clonar o repositorio: https://github.com/jakelima18/jenkins-kubernetes
+Executar o comando: `docker-compose up -d`
+Acessar a pagina: http://localhost:4000/
 - [ ] Trabalhando com Docker Parte 2
 - [ ] Configurações do WSL
