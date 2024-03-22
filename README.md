@@ -23,4 +23,4 @@ Configurar o volume no docker-compose
 volumes:
   - /mnt/c/python/jenkins-kurbenetes:/var/www/forum
 ```
-- [ ] Configurações do WSL
+- [x] Configurações do WSL
